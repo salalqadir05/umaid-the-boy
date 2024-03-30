@@ -1,0 +1,145 @@
+.slide-container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #F8D1E0;
+    ;
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);     */
+    /* padding: 20px; */
+    max-width: 800px; /* Adjust as needed */
+    margin: auto;
+  }
+  
+
+  
+  .funfox img{
+    height : 50px;
+    width:  160px;
+    margin-left:  -14px;
+    margin-bottom: -14px;
+  }
+.week1 img{
+    margin-left: -10px;
+    height : 33px;
+    width:  100px;
+}  
+.header-text img {
+    margin-left: 50px;
+
+}
+.header-text h2 {
+    margin-left: 150px;
+    margin-top:  -55px;
+    color: white;
+
+}
+
+.text-after-header{
+    font-family: Short Stack;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: -0.06em;
+text-align: left;
+
+}
+
+
+  .logo-placeholder {
+    width: 100px; /* Adjust as needed */
+    height: 50px; /* Adjust as needed */
+    background-color: #DDD; /* Placeholder color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content-area {
+    background-color: #FFF;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .elements-of-story h1 {
+    color: #D66;
+    text-align: center;
+  }
+  
+  .story-elements {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .element-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+  }
+  .cloud1 img {
+    width: 120.93px;
+height: 80.99px;
+gap: 0px;
+opacity: 0px;
+.cloud1 .fonttt{
+    margin-left: 1000px;
+
+}
+  }
+.fonttt{
+    margin-top: -55px;
+    margin-left: 30px;
+    font-family: Short Stack;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.63px;
+/* text-align: center; */
+
+}
+
+.fuild-container
+{
+    /* width: 218px; */
+/* height: 124px; */
+margin-top: 30px;
+margin-left:10px;
+/* left: 898px; */
+gap: 0px;
+opacity: 0px;
+
+}
+
+.buttom-text img
+{
+    width: 600px;
+    margin-left: 30px;
+}
+
+.buttom-text p{
+    font-family: Short Stack;
+font-size: 14px;
+font-weight: 300;
+line-height: 19px;
+text-align: left;
+margin-left: 62px;
+margin-top: -73px;
+width: 550px;
+}
+
+
+
+  .lesson-note {
+    background-color: #FCC;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  .slide-footer span img {
+    width: 650px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+  }
